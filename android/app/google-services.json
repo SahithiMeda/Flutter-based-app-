@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "867370844630",
+    "firebase_url": "https://pot-holes.firebaseio.com",
+    "project_id": "pot-holes",
+    "storage_bucket": "pot-holes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867370844630:android:32ec751dc988be7aee6477",
+        "android_client_info": {
+          "package_name": "com.example.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867370844630-l39o431j59ngndfjod10br660sdh76bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-kqrHL5lGAdrrk7puMCi7x6pleDqj73E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867370844630-l39o431j59ngndfjod10br660sdh76bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
